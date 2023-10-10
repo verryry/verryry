@@ -11,9 +11,5 @@ Hi👋, I'm Vierry Rusdiyanto<br><br>I am a software engineer dedicated to conti
 ![](https://github-readme-stats.vercel.app/api?username=verryry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=verryry&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=verryry&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/verusdi) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
