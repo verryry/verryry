@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I'm Vierry Rusdiyanto<br><br>I am a software engineer dedicated to continuously learning about all programming languages, especially in the field of frontend web development. <br>Feel free to connect with me through my socials listed up above.<br>Looking forward to connecting with you! ❤️
+Hi👋, I'm Vierry Rusdiyanto<br><br>I am a software engineer dedicated to continuously learning about all programming languages, especially in the field of frontend web development. <br>Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
 
 
 ## 🌐 Socials:
